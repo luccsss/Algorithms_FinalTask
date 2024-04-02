@@ -1,0 +1,236 @@
+﻿  CControladora.cpp
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(37,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(37,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(38,97): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(38,90): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(44,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(45,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(49,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(57,25): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(58,26): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,76): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,68): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,76): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,68): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(9,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(11,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(12,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(25,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(25,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(14,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(15,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,82): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(10,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(11,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,82): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CControladora.cpp")
+  
+  Juego.cpp
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(37,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(37,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(38,97): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(38,90): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(44,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(45,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(49,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(57,25): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CMovil.h(58,26): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,76): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,68): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(23,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,76): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,68): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CHero.h(29,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(9,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(11,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(12,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(24,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(25,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CRayo.h(25,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(14,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(15,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,82): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\CEnemigo.h(32,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(10,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(11,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,82): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Cvidas.h(21,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\Juego.h(37,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Juego.cpp")
+  
+  Generando código...
+  CControladora.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  EXAMEN_FINAL.vcxproj -> C:\Users\Olidata\OneDrive\EF_202215979_SANCHEZ\EXAMEN_FINAL\x64\Debug\EXAMEN_FINAL.exe
